@@ -1,13 +1,18 @@
 # Reconhecimento de Imagem com Microsoft Copilot
 
-Este projeto demonstra a utilização do Microsoft Copilot para reconhecer e descrever o conteúdo de imagens. As imagens foram carregadas no site do Copilot, que gerou descrições automáticas para cada uma delas.
+Este projeto demonstra a utilização do Microsoft Copilot para reconhecer e descrever o conteúdo de imagens. O foco principal deste projeto é a análise de posters de filmes, utilizando o Copilot para gerar descrições automáticas desses materiais visuais.
 
 ## Estrutura do Repositório
 
-- **inputs/**: Pasta contendo as imagens utilizadas para análise.
+- **inputs/**: Pasta contendo as imagens utilizadas para análise, incluindo posters de filmes.
 - **output/**: Pasta onde as descrições geradas pelo Copilot são salvas.
 - **README.md**: Este arquivo, contendo a descrição e instruções do projeto.
 
+## Tipos de Imagens
+
+As imagens analisadas neste projeto incluem:
+
+- **Posters de Filmes:** Imagens promocionais de filmes que apresentam uma combinação de elementos visuais e texto, como títulos, créditos, e imagens dos personagens ou cenas principais.
   
 ## Prompt Utilizado em Conjunto à Imagem Fornecida
 
