@@ -25,11 +25,13 @@ Para garantir que o Microsoft Copilot forneça descrições precisas e úteis, o
 
 As descrições geradas pelo Microsoft Copilot foram salvas na pasta `output/`. As descrições fornecem uma visão geral do que está presente em cada imagem.
 
-
 ## Insights e Possibilidades
 
-Este projeto demonstrou a eficácia do Microsoft Copilot na descrição de imagens. No futuro, seria interessante explorar mais sobre a precisão das descrições e como elas podem ser usadas para diferentes aplicações.
+Este projeto demonstrou a eficácia do Microsoft Copilot na descrição de imagens, especialmente para posters de filmes. No futuro, seria interessante explorar mais sobre a precisão das descrições e como elas podem ser aplicadas a diferentes contextos, como:
 
+- **Análise de Marketing:** Avaliar como os elementos visuais e o texto de posters podem impactar a percepção do filme.
+- **Estudo de Design Gráfico:** Explorar como diferentes estilos e elementos visuais são usados em posters para comunicar a identidade de um filme.
+  
 Além disso, a utilização de prompts mais específicos ou a experimentação com diferentes tipos de entrada podem ajudar a refinar a qualidade das descrições geradas e ampliar o escopo de aplicação do reconhecimento de imagem.
 
 
